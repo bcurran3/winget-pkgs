@@ -1,0 +1,17 @@
+Id: BillCurran.InstChoco
+Version: 2.11
+Name: InstChoco
+Publisher: Bill Curran
+License: DonationWare
+LicenseUrl: http://lacomputerbuddy.com/InstChoco/
+AppMoniker: InstChoco
+Tags: 
+Description: The ULTIMATE Chocolatey and Chocolatey packages (re)installer!
+Homepage: http://lacomputerbuddy.com/InstChoco/
+Installers:
+  - Arch: x64
+    Url: http://lacomputerbuddy.com/InstChoco/InstChoco.exe
+    Sha256: 31073329439f4526f7c210d5d185fdab57db6c1d4a689afac897545758144196
+    InstallerType: exe
+    Switches:
+      Silent: -ynp
